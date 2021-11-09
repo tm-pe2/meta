@@ -45,4 +45,5 @@ Not so keen on using the command line? These apps provide a GUI for Git.
 ### Visual Studio Code
 
 Visual Studio Code (VSCode) is an editor that supports many languages with the use of extensions.  
+VSCode has a built in Git tab used to see differences in files and commit changes.  
 [Download Vscode](https://code.visualstudio.com/download)
