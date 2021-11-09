@@ -1,7 +1,7 @@
 ## Practice Enterprise Meta Hub
 
 This repository is a hub for all information regarding PE2 and how to contribute to the project(s)  
-Have a question not covered in this README? [Open an issue](https://github.com/tm-pe2/meta/issues/new)
+Have a question, idea or just have something to say? [Open a discussion](https://github.com/tm-pe2/meta/discussions/new)
 
 ## Getting started
 
