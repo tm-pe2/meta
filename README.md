@@ -1,11 +1,11 @@
 ## Practice Enterprise Meta Hub
 
-This repository is a hub for all information regarding PE2 and how to contribute to the project(s)
+This repository is a hub for all information regarding PE2 and how to contribute to the project(s)  
 Have a question not covered in this README? [Open an issue](https://github.com/tm-pe2/meta/issues/new)
 
 ## Getting started
 
-:warning: If you haven't already, make sure to [follow the instructions to join the development team](https://github.com/tm-pe2/meta/discussions/3)
+:warning: If you haven't already, make sure to [follow the instructions to join the development team](https://github.com/tm-pe2/meta/discussions/3) :warning:
 
 ## Help I'm new to Git and GitHub
 
@@ -26,7 +26,7 @@ In order to ensure successful teamwork and task management, the following guidel
 
 ## How to contribute code
 
-Do not contribute to the main branch always create a new branch (optionally on a fork) and create a pull request
+Do not contribute to the main branch always create a new branch (optionally on a fork) and create a pull request.  
 This is called the GitHub flow. A more [complete guide can be found here](https://guides.github.com/introduction/flow/)
 
 ## Tools that will help you
@@ -35,10 +35,10 @@ This is called the GitHub flow. A more [complete guide can be found here](https:
 
 Not so keen on using the command line? These apps provide a GUI for Git.
 
-[Github Desktop](https://desktop.github.com/)
+[Github Desktop](https://desktop.github.com/)  
 [GitKraken](https://www.gitkraken.com/)
 
 ### Visual Studio Code
 
-Visual Studio Code (VSCode) is an editor that supports many languages with the use of extensions.
+Visual Studio Code (VSCode) is an editor that supports many languages with the use of extensions.  
 [Download Vscode](https://code.visualstudio.com/download)
