@@ -5,7 +5,7 @@ Have a question, idea or just have something to say? [Start a discussion](https:
 
 ## Getting started
 
-In order to get full access to repo's, you need to be a member of the organization. To join the organisation send me a DM on discord (Xunafay#0001) and you'll receive an invite link on your github email.
+In order to get full access to repo's, you need to be a member of the organization. To join the organisation ping `Xunafay#0001` or `Toast#1042` with your github username, you'll receive an invite link on your github email.
 
 Once you've gained access to the organisation, you should join your teams:
 - [AI](https://github.com/orgs/tm-pe2/teams/ai)
@@ -13,7 +13,7 @@ Once you've gained access to the organisation, you should join your teams:
 - [SSS]()
 - [DevOps](https://github.com/orgs/tm-pe2/teams/devops)
 
-SSS Team still needs to be made (Contact Xunafay#0001).
+SSS Team still needs to be made by any member on the SSS team.
 
 ## Help I'm new to Git and GitHub
 
