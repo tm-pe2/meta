@@ -5,7 +5,15 @@ Have a question, idea or just have something to say? [Start a discussion](https:
 
 ## Getting started
 
-:warning: If you haven't already, make sure to [follow the instructions to join the development team](https://github.com/tm-pe2/meta/discussions/3) :warning:
+In order to get full access to repo's, you need to be a member of the organization. To join the organisation send me a DM on discord (Xunafay#0001) and you'll receive an invite link on your github email.
+
+Once you've gained access to the organisation, you should join your teams:
+- [AI](https://github.com/orgs/tm-pe2/teams/ai)
+- [App Dev](https://github.com/orgs/tm-pe2/teams/app-dev)
+- [SSS]()
+- [DevOps](https://github.com/orgs/tm-pe2/teams/devops)
+
+SSS Team still needs to be made (Contact Xunafay#0001).
 
 ## Help I'm new to Git and GitHub
 
@@ -16,13 +24,14 @@ Have a question, idea or just have something to say? [Start a discussion](https:
 
 ## Task Management
 
-Task management done properly is important to the success of any project.
-In order to ensure successful teamwork and task management, the following guidelines are recommended:
+To track your work it is highly recommended to [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) describing your task. This way there is an immutable history of what you've done.  
+[Assign yourself to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users) to indicate to others your already working on it.
+
+Here are some tips on using issues to organize your work better:
 
 1. Split tasks into smaller, more manageable issues. [Use a task list to track these related issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists).
-2. Assign yourself to a task so other people know someone is working on it.
 3. Use the [project board](https://github.com/orgs/tm-pe2/projects/1) to track and organize tasks.
-4. Use a [pull request](https://help.github.com/articles/using-pull-requests/) to close an issue.
+4. Use a [pull request](https://help.github.com/articles/using-pull-requests/) to close an issue and tracks its code.
 5. Use labels to describe and organize issues.
 
 ## How to contribute code
