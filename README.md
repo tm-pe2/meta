@@ -1,7 +1,7 @@
 # Practice Enterprise Meta Hub
 
 This repository is a hub for all information regarding PE2 and how to contribute to the project(s)  
-Have a question, idea or just have something to say? [Start a discussion](https://github.com/tm-pe2/meta/discussions/new)
+Have a question, idea or just have something to say? [Start a discussion](https://github.com/tm-pe2/meta/discussions/new) or get on the Discord server.
 
 ## Getting started
 
@@ -20,6 +20,8 @@ Once you've gained access to the organisation, you should join your teams:
 [A collection of Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)  
 [GitHub features](https://github.com/features)
 
+This doesn't answer your question? Ping someone with the git role in the discord server.
+
 ## Task Management
 
 To track your work it is highly recommended to [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) describing your task. This way there is an immutable history of what you've done.  
@@ -35,7 +37,7 @@ Here are some tips on using issues to organize your work better:
 ## How to contribute code
 
 Do not contribute to the main branch always create a new branch (optionally on a fork) and create a pull request.  
-This is called the GitHub flow. A [complete guide can be found here](https://guides.github.com/introduction/flow/)
+This is called the GitHub flow, meant to prevent a lot of merge headaches. A [complete guide can be found here](https://guides.github.com/introduction/flow/)
 
 ## Tools that will help you
 
