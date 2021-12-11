@@ -13,8 +13,6 @@ Once you've gained access to the organisation, you should join your teams:
 - [SSS]()
 - [DevOps](https://github.com/orgs/tm-pe2/teams/devops)
 
-SSS Team still needs to be made by any member on the SSS team.
-
 ## Help I'm new to Git and GitHub
 
 [Follow the git handbook](https://guides.github.com/introduction/git-handbook/)  
