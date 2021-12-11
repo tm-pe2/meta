@@ -10,7 +10,7 @@ In order to get full access to repo's, you need to be a member of the organizati
 Once you've gained access to the organisation, you should join your teams:
 - [AI](https://github.com/orgs/tm-pe2/teams/ai)
 - [App Dev](https://github.com/orgs/tm-pe2/teams/app-dev)
-- [SSS]()
+- [SSS](https://github.com/orgs/tm-pe2/teams/sss)
 - [DevOps](https://github.com/orgs/tm-pe2/teams/devops)
 
 ## Help I'm new to Git and GitHub
